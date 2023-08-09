@@ -6,7 +6,8 @@ public class convertTempeture {
             ans[0] = celsius + 273.15;
             return ans;
         }else{
-            System.out.println("that number cant convert");
+            System.out.println("that number cant convert fuck u");
+
         }
         return ans;
     }
